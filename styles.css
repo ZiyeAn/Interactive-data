@@ -1,0 +1,26 @@
+/* styles.css */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    text-align: center;
+  }
+  
+  #chart {
+    margin-top: 20px;
+  }
+  
+  .bar {
+    fill: pink;
+  }
+  
+  .bar:hover {
+    fill: hotpink;
+  }
+  
+  .axis-label {
+    font-size: 14px;
+  }
+  
+  .axis text {
+    font-size: 12px;
+  }
